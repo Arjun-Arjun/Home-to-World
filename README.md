@@ -5,6 +5,6 @@
  
  The service providers like travel agencies, hotels, home stay providers etc., can register with the system as clients. Online registration is provided. This is intending to increase the quality of the services offered to the tourists.
  
- #Objective
+ # Objective
  
  The main aim of the project is to guide the tourism to know about the places and their information. Different package facilities are available for the user to reserve package for his comfortable journey to his desired place.
