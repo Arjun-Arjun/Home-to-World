@@ -1,5 +1,5 @@
 # Home to World
- Online ticket booking for vacation/tourist places.
+ Online ticket booking application for vacation/tourist places.
  
  online services like booking of the best of travel options, houseboat holidays, restaurants and hotels, home stays etc., The software is developed as an integrated full fledged system with the objective of promoting tourism.
  
